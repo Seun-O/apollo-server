@@ -16,7 +16,7 @@ Use `npm run server` to start the server with nodemon
 
 ### About this repository
 
-This repo test modularizing and creating a GraphQL server using SDL (Schema Definition Language)
+This repo tests modularizing and creating a GraphQL server using SDL (Schema Definition Language)
 
 ##### Example
 
