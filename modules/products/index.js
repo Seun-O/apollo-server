@@ -8,7 +8,7 @@ const products = [
 ];
 
 const typeDefs = gql`
-  type Product {
+  interface Product {
     id: ID
     name: String
     price: Float
